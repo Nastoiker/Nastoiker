@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭  At the moment I am developing interfaces for web applications using modern frameworks and libraries such as React and Vue.
 - 🌱 I’m currently learning React, ReactNative, Vue
-https://www.codewars.com/users/Nastoiker
+- Codewars: https://www.codewars.com/users/Nastoiker
 # Languages and Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)

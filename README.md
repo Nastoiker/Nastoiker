@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭  At the moment I am developing interfaces for web applications using modern frameworks and libraries such as React and Vue.
-- 🌱 I’m currently learning React, ReactNative, Vue
+- 🔭  At the moment I am fullstack developer
 - Codewars: https://www.codewars.com/users/Nastoiker
 # Languages and Tools
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
